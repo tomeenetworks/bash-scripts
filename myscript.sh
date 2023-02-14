@@ -9,7 +9,7 @@ echo Hello world!
 NAME="Tomi"
 NAME2="Anti"
 echo "My name is ${NAME}"
-echo "My name is $1 $2 "
+echo "My name is ${1} ${2} "
 
 
 
